@@ -1,16 +1,57 @@
-## Hi there 👋
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Frontend+Developer;React+Developer;JavaScript+Developer)
+# 👋 Hola, soy Rusbel Cuello
 
-<!--
-**RusbelCuello/RusbelCuello** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Desarrollador Frontend en crecimiento
+🚀 Apasionado por crear aplicaciones web modernas y funcionales
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧠 Sobre mí
+
+* 🌱 Actualmente aprendiendo **React y desarrollo web moderno**
+* 💻 Construyendo proyectos para mejorar mis habilidades
+* 🎯 Objetivo: Convertirme en **Frontend Developer profesional**
+
+---
+
+## 🚀 Tecnologías
+
+![JavaScript](https://img.shields.io/badge/javascript-yellow)
+![React](https://img.shields.io/badge/react-blue)
+![HTML](https://img.shields.io/badge/html-orange)
+![CSS](https://img.shields.io/badge/css-blue)
+![Node.js](https://img.shields.io/badge/node-green)
+![Git](https://img.shields.io/badge/git-red)
+
+---
+
+## 📊 Estadísticas de GitHub
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=RusbelCuello\&show_icons=true\&theme=radical)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RusbelCuello\&layout=compact\&theme=radical)
+
+---
+
+## 🚀 Proyectos destacados
+
+### 🌐 Mi Portafolio
+
+Aplicación web donde muestro mis proyectos.
+
+🔗 https://github.com/RusbelCuello/MiPortafolio
+
+---
+
+### 📝 Todo App
+
+Aplicación para gestionar tareas.
+
+🔗 https://github.com/RusbelCuello/todo-app
+
+---
+
+## 📫 Contacto
+
+* LinkedIn
+* Email
