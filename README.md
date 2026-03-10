@@ -51,7 +51,8 @@ Aplicación para gestionar tareas.
 
 ---
 
-## 📫 Contacto
+## 🌐 Conecta conmigo
 
-* LinkedIn
-* Email
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Rusbel%20Cuello-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rusbel-cuello-b7429b3b3/)
+
+[![Email](https://img.shields.io/badge/Email-ffrusbel%40icloud.com-red?logo=gmail&logoColor=white)](mailto:ffrusbel@icloud.com)
