@@ -35,11 +35,11 @@
 
 ## 🚀 Proyectos destacados
 
-### 🌐 [Mi Portafolio](https://rusbel-portfolio.vercel.app/)
+### 🌐 Mi Portafolio
 
 Aplicación web donde muestro mis proyectos.
 
-🔗 https://github.com/RusbelCuello/MiPortafolio
+🔗https://rusbel-portfolio.vercel.app/
 
 ---
 
