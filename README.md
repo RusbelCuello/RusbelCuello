@@ -25,14 +25,6 @@
 
 ---
 
-## 📊 Estadísticas de GitHub
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=RusbelCuello\&show_icons=true\&theme=radical)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RusbelCuello\&layout=compact\&theme=radical)
-
----
-
 ## 🚀 Proyectos destacados
 
 ### 🌐 Mi Portafolio
