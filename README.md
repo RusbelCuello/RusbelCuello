@@ -43,11 +43,11 @@ Aplicación web donde muestro mis proyectos.
 
 ---
 
-### 📝 Todo App
+### 📝 D'SotoRentCar
 
-Aplicación para gestionar tareas.
+Pagina web para un negocio de alquiler de vehiculos. 
 
-🔗 https://github.com/RusbelCuello/todo-app
+🔗https://d-soto-rent-car.vercel.app/
 
 ---
 
