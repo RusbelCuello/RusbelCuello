@@ -28,44 +28,56 @@ Desarrollador Frontend en crecimiento, apasionado por construir aplicaciones web
 
 ---
 
-## Proyectos destacados
+## 🚀 Proyectos Destacados
+
+### ⭐ RentCarControl — SaaS de Gestión para Rent Car
+Plataforma web completa diseñada para automatizar y organizar negocios de alquiler de vehículos. Permite gestionar clientes, vehículos, contratos, pagos y suscripciones en un solo lugar.
+
+Incluye autenticación, sistema de roles (admin/usuario), integración de pagos con PayPal y arquitectura escalable con Firebase.
+
+🔗 https://rentcarcontrol.com
+
+`React` `Vite` `Tailwind CSS` `Firebase` `PayPal API` `SaaS` `PWA`
+
+---
 
 ### 🏠 SotoVentas — Plataforma Inmobiliaria
-Página web profesional para una inmobiliaria dominicana. Incluye catálogo de propiedades, integración directa con WhatsApp y formulario de contacto. Construida con React, Vite y Tailwind CSS v4.
+Aplicación web profesional para una inmobiliaria dominicana con catálogo dinámico de propiedades, integración directa con WhatsApp y formularios optimizados para conversión de clientes.
 
-🔗 [soto-ventas.vercel.app](https://soto-ventas.vercel.app/)
+🔗 https://soto-ventas.vercel.app/
 
 `React` `Vite` `Tailwind CSS v4` `WhatsApp API`
 
 ---
 
+### 🚗 D'SotoRentCar — Web para Alquiler de Vehículos
+Sitio web moderno para negocio de renta de vehículos, enfocado en presencia digital, captación de clientes y experiencia de usuario simple y efectiva.
+
+🔗 https://d-soto-rent-car.vercel.app/
+
+`React` `JavaScript` `UI/UX`
+
+---
+
 ### 🌐 Portafolio Personal
-Aplicación web donde muestro mis proyectos y habilidades como desarrollador.
+Aplicación web donde presento mis proyectos, habilidades y experiencia como desarrollador web, con enfoque en diseño moderno y rendimiento.
 
-🔗 [rusbel-portfolio.vercel.app](https://rusbel-portfolio.vercel.app/)
+🔗 https://rusbel-portfolio.vercel.app/
 
-`React` `JavaScript`
-
----
-
-### 🚗 D'SotoRentCar — Alquiler de Vehículos
-Página web para un negocio de alquiler de vehículos en República Dominicana.
-
-🔗 [d-soto-rent-car.vercel.app](https://d-soto-rent-car.vercel.app/)
-
-`React` `JavaScript`
+`React` `JavaScript` `Responsive Design`
 
 ---
 
-## Estadísticas
+## 📊 Estadísticas
 
-![Rusbel's GitHub Stats](https://github-readme-stats.vercel.app/api?username=RusbelCuello&show_icons=true&theme=dark&hide_border=true&bg_color=0A0A0A&title_color=E11D48&icon_color=E11D48)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=RusbelCuello&show_icons=true&theme=dark&hide_border=true&bg_color=0A0A0A&title_color=E11D48&icon_color=E11D48)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=RusbelCuello&layout=compact&theme=dark&hide_border=true&bg_color=0A0A0A&title_color=E11D48)
 
 ---
 
-## Conecta conmigo
+## 🤝 Conecta conmigo
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Rusbel%20Cuello-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rusbel-cuello-b7429b3b3/)
+
 [![Email](https://img.shields.io/badge/Email-ffrusbel%40icloud.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ffrusbel@icloud.com)
