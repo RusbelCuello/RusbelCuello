@@ -53,7 +53,7 @@ Aplicación web profesional para una inmobiliaria dominicana con catálogo diná
 ### 🚗 D'SotoRentCar — Web para Alquiler de Vehículos
 Sitio web moderno para negocio de renta de vehículos, enfocado en presencia digital, captación de clientes y experiencia de usuario simple y efectiva.
 
-🔗 https://d-soto-rent-car.vercel.app/
+🔗 https://d-soto-rent-car-new.vercel.app/
 
 `React` `JavaScript` `UI/UX`
 
